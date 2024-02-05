@@ -40,8 +40,15 @@ Password : password
 **Server:** PHP \
 **Framework:** Laravel
 
+## Anggota Kelompok
+
+1. Haidar Fadhli Muhammad
+2. Neng Sari Ratna Widya Ningsih
+3. Mukhammad Alfan
+4. Chantika Indra Putri
 
 ## Tujuan Pembuatan
 
 Untuk memenuhi nilai ujian akhir semester mata kuliah Pemrograman Web
 ```
+
