@@ -6,7 +6,7 @@
 
 
 ## Description
-Ini adalah aplikasi yang digunakan untuk mengajukan penggantian biaya atau dana oleh pegawai pada perusahaan PT Kelompok 2 KA7A. Prosedur dalam aplikasi ini adalah :  pegawai atau user melakukan pengajuan biaya atau reimbursement dengan mengisi formulir pada website, Kemudian pihak HR akan melakukan pemeriksaan dan memberikan keputusan apakah pengajuan biaya atau reimbursementnya diterima atau ditolak. Bagian finance akan melihat status dan kebutuhan pengajuan biaya dan melakukan pencairan dana yang akan dikirimkan ke user sebagai tanda pengajuan diterima. User dapat melihat status pengajuannya pada aplikasi.
+Ini adalah aplikasi yang digunakan untuk mengajukan penggantian biaya atau dana oleh pegawai pada perusahaan PT Kelompok 2 KA7A. Prosedur dalam aplikasi ini adalah :  pegawai atau user melakukan pengajuan biaya atau reimbursement dengan mengisi formulir pada website, Kemudian pihak HR akan melakukan pemeriksaan dan memberikan keputusan apakah pengajuan biaya atau reimbursement yang diajukan diterima atau ditolak. Bagian finance akan melihat status dan kebutuhan pengajuan biaya dan melakukan pencairan dana yang akan dikirimkan ke user sebagai tanda pengajuan diterima. User dapat melihat status pengajuannya pada aplikasi.
 
 ## User 
 
@@ -43,5 +43,5 @@ Password : password
 
 ## Tujuan Pembuatan
 
-Untuk memenuhi niai ujian akhir semester mata kuliah Pemrograman Web
+Untuk memenuhi nilai ujian akhir semester mata kuliah Pemrograman Web
 ```
