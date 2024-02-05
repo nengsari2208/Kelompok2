@@ -47,6 +47,13 @@ Password : password
 3. Mukhammad Alfan
 4. Chantika Indra Putri
 
+## Aturan Pengerjaan
+
+1. Haidar Fadhli Muhammad = Desain Home dan Dashboard setiap reimbursement, Reimbursement untuk pegawai atau user, penentuan CSS, penentuan view dan hak akses
+2. Neng Sari Ratna Widya Ningsih = Reimbursement finance, database PHPMyAdmin, controller, mengerjakan view dan hak akses
+3. Mukhammad Alfan = Desain login dan Home, Reimbursement untuk HRD, mengerjakan web.php, penentuan view dan hak akses
+4. Chantika Indra Putri
+
 ## Tujuan Pembuatan
 
 Untuk memenuhi nilai ujian akhir semester mata kuliah Pemrograman Web
