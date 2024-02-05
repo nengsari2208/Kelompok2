@@ -1,34 +1,37 @@
 
-# Reimbursement Claim App
+# Form Pengajuan Biaya dan Reimbursement App
 
 
 
 
 
 ## Description
-Ini adalah aplikasi yang digunakan untuk melakukan claim penggantian atau reimbursement oleh pegawai pada perusahaan PT IT Indonesia (Boongan), pegawai melakukan pengajuan reimbursement dengan mengisi formulir pada website, Kemudian pihak HR akan melakukan pemeriksaan dan memberikan keputusan apakah reimbursementnya diterima atau ditolak. User dapat melihat status pengajuannya pada aplikasi.
-## Role
+Ini adalah aplikasi yang digunakan untuk mengajukan penggantian biaya atau dana oleh pegawai pada perusahaan PT Kelompok 2 KA7A. Prosedur dalam aplikasi ini adalah :  pegawai atau user melakukan pengajuan biaya atau reimbursement dengan mengisi formulir pada website, Kemudian pihak HR akan melakukan pemeriksaan dan memberikan keputusan apakah pengajuan biaya atau reimbursementnya diterima atau ditolak. Bagian finance akan melihat status dan kebutuhan pengajuan biaya dan melakukan pencairan dana yang akan dikirimkan ke user sebagai tanda pengajuan diterima. User dapat melihat status pengajuannya pada aplikasi.
 
-- **Pegawai:** Dapat melakukan pengajuan, dan dapat memeriksa status claim
-- **HR:** Dapat memeriksa dan menyetujui / menolak pengajuan
-- **Finance:** Hanya Melihat data pengajuan yang sudah disetujui, kemudian menandai reimbursement yang sudah diterima
-
-
-## User Example
+## User 
 
 - **Pegawai :**
 ```bash
-Email : budi@it.com
+1. Pegawai IT
+Email : haidarfadhli67@gmail.com
+Password : password
+
+2. Pegawai Marketing
+Email : nisamisdya@gmail.com
+Password : password
+
+3. Pegawai Produksi
+Email : widyanisa368@gmail.com
 Password : password
 ```
 - **HR :**
 ```bash
-Email : dewi@hr.com
+Email : mhmmdalfan0@gmail.com
 Password : password
 ```
 - **Finance :**
 ```bash
-Email : rizky@finance.com
+Email : nengsariwidya@gmail.com
 Password : password
 ```
 ## Tech Stack
@@ -38,34 +41,7 @@ Password : password
 **Framework:** Laravel
 
 
-## Installation
+## Tujuan Pembuatan
 
-Untuk dapat menggunakannya lakukan langkah langkah berikut :
-
-- Clone project dari github
-```bash
-  git clone https://github.com/aryadilas/reim.git
-```
-- Buat .env, copy dari .env-example    
-- Buat database baru
-- Edit config database pada file .env
-- Lakukan Composer Install
-```bash
-  composer install
-```
-- Generate key
-```bash
-  php artisan key:generate
-```
-- Lakukan migrasi dan seeding
-```bash
-  php artisan migrate --seed
-```
-- Buat Symbolic Link
-```bash
-  php artisan storage:link
-```
-- Run Aplikasi
-```bash
-  php artisan serve
+Untuk memenuhi niai ujian akhir semester mata kuliah Pemrograman Web
 ```
